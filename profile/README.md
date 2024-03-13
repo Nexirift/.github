@@ -13,6 +13,9 @@ As part of our dedication to transparency, most of our repositories are open sou
 ### API Server
 Our API server is called spark! Currently, we do not have the repository public as we are still developing it.
 
+#### Admin Panel
+Our admin panel uses an extra API server called Galaxy. Similar to the Spark server, this is not public yet.
+
 ### Relays
 We plan to have relays that connect to Mastodon and Atproto instances. This has not been started yet.
 
@@ -23,6 +26,9 @@ Visit the repository here: [plugin-keycloak](https://github.com/Nexirift/plugin-
 
 ### Policies
 We are still working on making internal policies public (such as the data breach policy), please check back later.
+
+## Documentation
+We are working on providing documentation for all of our open source repositories.
 
 ## Reporting a Security Vulnerability
 To report a security vulnerability related to a specific repository, please create a new security advisory in the repository, do NOT use the issue tracker. You can find a list of our repositories [here](https://github.com/orgs/Nexirift/repositories).
