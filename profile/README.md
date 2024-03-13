@@ -11,7 +11,7 @@ Happy coding!
 As part of our dedication to transparency, most of our repositories are open source. Feel free to browse through the code, contribute, and help us improve!
 
 ### API Server
-Our API server is called spark! Currently, we do not have the repository public as we are still developing it.
+Our API server is called Spark! Currently, we do not have the repository public as we are still developing it.
 
 #### Admin Panel
 Our admin panel uses an extra API server called Galaxy. Similar to the Spark server, this is not public yet.
