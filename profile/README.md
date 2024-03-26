@@ -16,13 +16,21 @@ Happy coding!
 
 As part of our dedication to transparency, most of our repositories are open source. Feel free to browse through the code, contribute, and help us improve!
 
-### API Server
+### API Servers
 
-Our API server is called Spark! Currently, we do not have the repository public as we are still developing it.
+The reason why the API servers are split is for reliability. If needed, we can move an API server off to a different provider without affecting the other ones. In addition, if a problem occurs in one API server, it shouldn't affect the others due to the servers being split across different containers.
 
-#### Admin Panel
+#### User
 
-Our admin panel uses an extra API server called Galaxy. Similar to the Spark server, this is not public yet.
+Our user API server is called [Spark](https://github.com/Nexirift/spark)! Currently, we do not have the repository public as we are still developing it.
+
+#### Admin
+
+Our admin panel uses an extra API server called [Galaxy](https://github.com/Nexirift/galaxy). Similar to the Spark server, this is not public yet.
+
+#### Developer
+
+The developer management panel uses an API server called [Singularity](https://github.com/Nexirift/singularity). Similar to the Spark server, this is not public yet.
 
 ### Relays
 
