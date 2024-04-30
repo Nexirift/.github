@@ -34,7 +34,7 @@ The developer management panel uses an API server called [Singularity](https://g
 
 ### Relays
 
-We plan to have relays that connect to Mastodon and Atproto instances. This has not been started yet.
+We plan to have relays that connect to the Activitypub protocol (Mastodon, Pleroma, etc) and Atproto (Bluesky) instances. This has not been started yet.
 
 ### Authentication
 
