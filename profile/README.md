@@ -38,9 +38,9 @@ We plan to have relays that connect to the Activitypub protocol (Mastodon, Plero
 
 ### Authentication
 
-We have made a GraphQL Yoga connector to authenticate users using the open source Keycloak authentication solution.
+We have made a GraphQL Yoga connector to authenticate users using compatible OpenID Connect solutions.
 
-Visit the repository here: [plugin-keycloak](https://github.com/Nexirift/plugin-keycloak).
+Visit the repository here: [plugin-oidc](https://github.com/Nexirift/plugin-oidc).
 
 ### Policies
 
