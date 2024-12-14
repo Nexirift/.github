@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nexirift/.github/main/banner.svg" width="400" />
+<img src="https://raw.githubusercontent.com/Nexirift/media-kit/main/nexirift/banner.svg" width="400" />
 </p>
 
 # Nexirift Open Source
@@ -16,21 +16,9 @@ Happy coding!
 
 As part of our dedication to transparency, most of our repositories are open source. Feel free to browse through the code, contribute, and help us improve!
 
-### API Servers
+### API Server
 
-The reason why the API servers are split is for reliability. If needed, we can move an API server off to a different provider without affecting the other ones. In addition, if a problem occurs in one API server, it shouldn't affect the others due to the servers being split across different containers.
-
-#### User
-
-Our user API server is called [Spark](https://github.com/Nexirift/spark)! Currently, we do not have the repository public as we are still developing it.
-
-#### Admin
-
-Our admin panel uses an extra API server called [Galaxy](https://github.com/Nexirift/galaxy). Similar to the Spark server, this is not public yet.
-
-#### Developer
-
-The developer management panel uses an API server called [Singularity](https://github.com/Nexirift/singularity). Similar to the Spark server, this is not public yet.
+Our API server is called [Nova](https://github.com/Nexirift/nova)!
 
 ### Relays
 
@@ -58,4 +46,4 @@ If the vulnerability is not related to a specific repository or you cannot acces
 
 Please do NOT disclose the vulnerability to anyone else, as it could heavily impact our users. We appreciate your responsible disclosure and commitment to the security of our platform.
 
-For example, to report a vulnerability in the GraphQL Yoga Keycloak plugin repository, you can visit [this link](https://github.com/Nexirift/plugin-keycloak/security/advisories/new).
+For example, to report a vulnerability in the GraphQL Yoga OIDC plugin repository, you can visit [this link](https://github.com/Nexirift/plugin-oidc/security/advisories/new).
