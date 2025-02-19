@@ -6,44 +6,49 @@
 
 Welcome to the Nexirift organization on GitHub!
 
-We are an upcoming social networking platform, dedicated to connecting people and fostering meaningful interactions. Our open-source projects are designed to empower developers like you to contribute and shape the future of our platform.
+We are an innovative social networking platform dedicated to connecting people and fostering meaningful interactions. Our open-source projects empower developers to contribute and shape the future of our platform.
 
-Whether you're a seasoned developer or just starting out, we invite you to explore our repositories, join our community, and make a positive impact on the Nexirift platform.
-
-Happy coding!
+We welcome developers of all experience levels to explore our repositories, join our community, and make a positive impact on Nexirift.
 
 ## Repositories
 
-As part of our dedication to transparency, most of our repositories are open source. Feel free to browse through the code, contribute, and help us improve!
+Most of our repositories are open source as part of our commitment to transparency. We encourage you to explore the code and contribute!
 
 ### API Server
 
-Our API server is called [Nova](https://github.com/Nexirift/nova)!
+Our core API server is [Nova](https://github.com/Nexirift/nova).
 
 ### Relays
 
-We plan to have relays that connect to the Activitypub protocol (Mastodon, Pleroma, etc) and Atproto (Bluesky) instances. This has not been started yet.
+We are planning to implement relays connecting to the ActivityPub protocol (Mastodon, Pleroma) and ATProto (Bluesky) networks. Development has not yet begun.
 
 ### Authentication
 
-We have made a GraphQL Yoga connector to authenticate users using compatible OpenID Connect solutions.
+Our custom authentication system [Cosmos](https://github.com/Nexirift/cosmos) works together with [plugin-better-auth](https://github.com/Nexirift/plugin-better-auth) to provide user authorization for the [Nova](https://github.com/Nexirift/nova) API server.
 
-Visit the repository here: [plugin-oidc](https://github.com/Nexirift/plugin-oidc).
+Learn more about why we built our own authentication system [here](https://blog.nexirift.com/blog/moving-to-our-own-authentication-server).
 
 ### Policies
 
-We are still working on making internal policies public (such as the data breach policy), please check back later.
+We are in the process of making our internal policies (including data breach policy) publicly available. Check back soon.
 
 ## Documentation
 
-We are working on providing documentation for all of our open source repositories.
+Comprehensive documentation for all our open source repositories is currently in development.
 
 ## Reporting a Security Vulnerability
 
-To report a security vulnerability related to a specific repository, please create a new security advisory in the repository, do NOT use the issue tracker. You can find a list of our repositories [here](https://github.com/orgs/Nexirift/repositories).
+To report a security vulnerability in a specific repository:
 
-If the vulnerability is not related to a specific repository or you cannot access the repository, please email us at [security@nexirift.com](security@nexirift.com). Please include detailed information about the vulnerability and any steps to reproduce it.
+1. Create a new security advisory in the affected repository
+2. Do NOT use the public issue tracker
+3. Find our repositories [here](https://github.com/orgs/Nexirift/repositories)
 
-Please do NOT disclose the vulnerability to anyone else, as it could heavily impact our users. We appreciate your responsible disclosure and commitment to the security of our platform.
+For vulnerabilities not tied to a specific repository or if you lack repository access, email [security@nexirift.com](mailto:security@nexirift.com) with:
+- Detailed vulnerability description
+- Steps to reproduce
+- Any additional relevant information
 
-For example, to report a vulnerability in the GraphQL Yoga OIDC plugin repository, you can visit [this link](https://github.com/Nexirift/plugin-oidc/security/advisories/new).
+Please maintain confidentiality regarding vulnerabilities to protect our users. We value responsible disclosure and your commitment to platform security.
+
+Example: Report Nova API server vulnerabilities [here](https://github.com/Nexirift/nova/security/advisories/new).
