@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nexirift/media-kit/main/nexirift/banner.svg" width="400" />
+<img src="https://raw.githubusercontent.com/Nexirift/media-kit/main/nexirift/banner.svg" width="600" />
 </p>
 
 # Nexirift Open Source
