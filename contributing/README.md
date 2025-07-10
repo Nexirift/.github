@@ -1,6 +1,6 @@
 # Contributing
 
-Under construction.
+Please note that all contributors are expected to follow our [Code of Conduct](https://github.com/Nexirift/.github/blob/main/contributing/CODE_OF_CONDUCT.md).
 
 ## Nexirift NPM Registry
 

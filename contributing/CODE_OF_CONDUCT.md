@@ -24,6 +24,10 @@ Examples of unacceptable behavior include:
 * Publishing others' private information, such as a physical or email address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
+## Commit Message Guidelines
+
+Please follow the [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0) when contributing to this project.
+
 ## AI Usage Policy
 
 We encourage transparency regarding the use of artificial intelligence in our projects:
