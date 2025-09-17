@@ -1,3 +1,7 @@
+# Notice
+
+As of the 17th of September 2025, the Nexirift project has been temporarily or permanently discontinued. Read more [here](https://blog.nexirift.com/blog/moving-on).
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Nexirift/media-kit/main/nexirift/banner.svg" width="600" />
 </p>
