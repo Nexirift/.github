@@ -2,6 +2,8 @@
 
 As of the 17th of September 2025, the Nexirift project has been temporarily or permanently discontinued. Read more [here](https://blog.nexirift.com/blog/moving-on).
 
+Some repositories will be migrated into a new organisation, [XEJAYStudios](https://github.com/XEJAYStudios) (unrelated to social networking).
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Nexirift/media-kit/main/nexirift/banner.svg" width="600" />
 </p>
