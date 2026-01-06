@@ -4,6 +4,8 @@
 
 # Nexirift
 
-Please read our blog post [here](https://blog.nexirift.com) about the future of this project.
+We have moved all **active** repositories to be hosted at [code.nexirift.com](https://code.nexirift.com).
 
-Most repositories have been marked as archived and the rest will follow when they are no longer used.
+GitHub will remain as a mirror for all of the repositories hosted there.
+
+We will still support issues and pull requests here for the time being.
