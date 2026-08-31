@@ -4,7 +4,9 @@
 
 **Last Updated:** 31st of August 2026 at 10:30 PM (ACST)
 
-Please ensure that you have read and agree to the [Code of Conduct](./CODE_OF_CONDUCT.md).
+Please ensure that you have read and agree to the [Code of Conduct](./CODE_OF_CONDUCT.md) in its entirety.
+
+Have a look at the [Projects](./PROJECTS.md) page to ensure that you are not committing to a legacy project!
 
 ## Branches and pull requests
 
