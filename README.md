@@ -11,3 +11,4 @@ Please read the [Contributing](./contributing/CONTRIBUTING.md) guide.
 ## Git Locations
 
 - [CodeGuilds Git](https://git.codeguilds.org/Nexirift) - Primary
+- [GitHub](https://github.com/Nexirift) - Mirror
